@@ -8,3 +8,4 @@ http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getde
 
 [MITM]
 hostname = trade-acs.m.taobao.com,api.m.jd.com
+
